@@ -10,6 +10,6 @@ Hardware Availability: [kbdfans](https://kbdfans.myshopify.com/)
 
 Make example for this keyboard (after setting up your build environment):
 
-    make dztech/dz60rgb:default
+    make dztech/dz60rgb:craig
 
 See [build environment setup](https://docs.qmk.fm/build_environment_setup.html) then the [make instructions](https://docs.qmk.fm/make_instructions.html) for more information.
