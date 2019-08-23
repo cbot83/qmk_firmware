@@ -6,6 +6,8 @@
 
 This is Craig's custom keyboard layout for work.
 
-This is a basic keymap for the 60_ansi layout of the DZ60.
-The default layer is normal ANSI and the Fn layer is used for RGB
-and backlighting functions.
+Based off of the default layout.
+
+`make dz60:craig`
+
+fn + \ to enter bootloader mode
